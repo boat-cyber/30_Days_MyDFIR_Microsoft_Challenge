@@ -1,0 +1,53 @@
+Day 1 (Microsoft 365 E5 Trial Setup)
+•	Activated Microsoft 365 E5 Trial
+•	Redeemed Azure $200 Credit
+•	Configured Billing Alerts
+screenshots
+ 
+•	Dashboard showing active M365 E5 license
+
+ 
+•	Billing alert configuration page
+
+
+Day 2 (Provisioning and securing a Windows Server VM)
+•	Created an Azure Windows Server VM.
+•	Implemented network-level controls using an Azure Network Security Group (NSG) to restrict RDP to my management IP.
+•	Hardened the VM’s Windows Firewall and RDP settings.
+•	Successfully connected via RDP (using restricted NSG rule).
+Screenshots
+ 
+•	VM Overview and Inbound rules
+
+ 
+•	RDP client session from my workstation
+
+
+Day 3 (Create Log Analytics Workspace and Deploy Microsoft Sentinel)
+•	Created a Log Analytics Workspace in Azure to collect and analyze security event data.
+•	Deployed Microsoft Sentinel and connected it to the workspace for centralized security monitoring and investigation.
+Screenshot
+ 
+•	Log Analytics Workspace creation and Sentinel deployment
+
+Day 4 (Export Activity Logs and Explore KQL)
+•	Exported Azure Subscription Activity Logs to monitor administrative and resource-level actions within the environment.
+•	Loaded training data from the Microsoft Sentinel Training Lab solution to simulate security events.
+•	Began exploring KQL (Kusto Query Language) for querying logs, focusing on detecting failed logins and authentication activity
+
+
+
+
+
+
+Screenshots
+ 
+•	Exported activity logs
+
+
+ 
+•	Sentinel Training Lab deployment
+
+ 
+•	First KQL query and outputs.
+
